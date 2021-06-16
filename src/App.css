@@ -1,0 +1,30 @@
+body{
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  color: rgb(40, 61, 75);
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+.header-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:  rgb(42, 87, 117);
+}
+
+input, button{
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin: 0.5rem;
+  border-radius: 0.3rem;
+  background: white;
+}
+
+.text-block{
+  justify-content: center;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin: 0.5rem;
+  }
+
